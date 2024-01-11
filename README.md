@@ -1,5 +1,4 @@
 # oujung4u.github.io
-a hub for storing self-developing history
 
 ## 목차
 - [Final_Project](#Final_Project)
@@ -72,7 +71,7 @@ https://www.visitjeju.net/kr/
 
 
 4. 코드
-
+[naver](C:\Users\Playdata\Desktop\수업\개인 공부\git\oujung4u.github.io\naver.ipynb) 
 
 
 ### 축제 정보
