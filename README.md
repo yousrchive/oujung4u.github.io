@@ -87,10 +87,14 @@ https://www.mcst.go.kr/kor/s_culture/festival/festivalList.jsp
 -> 위치별로 지도에 표시
 
 
-### Microsoft Azure AI vision
+### Receipt OCR
 
 영수증에서 총 합계 찍어 올리면 날짜,시간 / 가게명 / 메뉴 / 총 금액 산출
 (단순 n빵 or 메뉴별 n빵 다름)
 
 레퍼런스:
 https://learn.microsoft.com/ko-kr/azure/ai-services/computer-vision/overview-ocr
+카카오 비전, 네이버 비전 있으나 유료
+-> 전이학습 딥러닝 모델로 변경
+
+
